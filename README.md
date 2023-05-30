@@ -1,1 +1,1 @@
-# Deforestation_Detector
+# DeforestationTracker
